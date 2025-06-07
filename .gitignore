@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+*.env
+
+# Conda environment files
+*.conda
+*.yml
+
+# VSCode settings (si se usa)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data and models (raw, processed, temporary)
+data/raw/
+data/processed/
+models/
+logs/
+
+# Outputs
+*.log
+*.out
+*.tmp
+
+# Notebook-generated files
+*.png
+*.svg
+*.pdf
+*.jpg
+
+# Python virtual environment folders
+ConversationalDataOps/
+
+# Backup files
+*~
