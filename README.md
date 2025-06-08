@@ -44,7 +44,7 @@ Desarrollar un agente conversacional capaz de procesar, analizar y razonar sobre
 pip install -r requirements.txt
 
 
-## Data from:
+## Fuentes:
 
 Adult-Census-Income: https://www.openml.org/search?type=data&status=active&id=43436
 
